@@ -5,7 +5,7 @@ public class Main {
         String[] allnames = {"David", "Susan", "Luis", "Laura"};
         String[] moreNames = new String[25];
 
-
+//Skriv ut alla namn
         String name1 = allnames[1];
         System.out.println(name1);
 
